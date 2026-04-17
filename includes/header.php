@@ -12,6 +12,12 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
-		<a class="navbar-brand" href="index.php">Image Gallery App</a>
+		<a class="navbar-brand" href="index.php">Image Gallery</a>
+		<div>
+			<a href="register.php" class="btn btn-outline-light btn-sm">Register</a>
+			<a href="login.php" class="btn btn-outline-light btn-sm">Login</a>
+			<a href="gallery.php" class="btn btn-outline-light btn-sm">Gallery</a>
+			<a href="logout.php" class="btn btn-outline-light btn-sm">Logout</a>
+		</div>
 	</div>
 </nav>
